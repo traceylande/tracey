@@ -28,15 +28,23 @@ description = "Strategic execution insights for CEOs and thier leadershp teams."
   Toc                  = false
   hideSummary          = true      # list page shows titles only
   hideDescriptionInList = true
+author = "Tracey Lande"
+description = "Strategic execution insights for CEOs and thier leadershp teams."
+  ShowBreadCrumbs      = false
+  ShowPostNavLinks     = false
   ShowCodeCopyButtons  = false
   ShowShareButtons     = false
   ShowReadingTime      = false
   Toc                  = false
   hideSummary          = true      # list page shows titles only
   hideDescriptionInList = true
-  author      = "Tracey Lande"
-  description = "Strategic marketing insights for high-growth leaders."
-ShowReadingTime = true
+[[menu.main]]                 
+  name   = "About"            
+  url    = "/about/"                                            
+  weight = 1
+  
+  
+
 [[menu.main]]
   name   = "About"
   url    = "/about/"
