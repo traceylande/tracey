@@ -9,7 +9,7 @@
   weight = 2           #    higher number = appears to the right
 
 
-baseURL = "https://enchanting-travesseiro-7ea685.netlify.app/"
+baseURL = "baseURL = "https://enchanting-travesseiro-7ea685.netlify.app/"
 languageCode = "en-us"
 title = "Tracey Strategy + Execution"
 theme = "papermod"
