@@ -1,3 +1,12 @@
+[[menu.main]]
+  name   = "About"
+  url    = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name   = "Tags"      # ←-- add these four lines
+  url    = "/tags/"    #    point to the tags index
+  weight = 2           #    higher number = appears to the right
 
 
 baseURL = "https://enchanting-travesseiro-7ea685.netlify.app/"
