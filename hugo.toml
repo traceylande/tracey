@@ -9,6 +9,25 @@ theme = "papermod"
   tag = "tags" 
 
 [params]
+author = "Tracey Lande"
+description = "Strategic execution insights for CEOs and thier leadershp teams."
+  ShowBreadCrumbs      = false
+  ShowPostNavLinks     = false
+  ShowCodeCopyButtons  = false
+  ShowShareButtons     = false
+  ShowReadingTime      = false
+  Toc                  = false
+  hideSummary          = true      # list page shows titles only
+  hideDescriptionInList = true
+[params]
+  ShowBreadCrumbs      = false
+  ShowPostNavLinks     = false
+  ShowCodeCopyButtons  = false
+  ShowShareButtons     = false
+  ShowReadingTime      = false
+  Toc                  = false
+  hideSummary          = true      # list page shows titles only
+  hideDescriptionInList = true
   author      = "Tracey Lande"
   description = "Strategic marketing insights for high-growth leaders."
 ShowReadingTime = true
