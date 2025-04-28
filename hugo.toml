@@ -1,14 +1,17 @@
 
 
-baseURL = "https://YOUR-SITE.netlify.app/"
+baseURL = "https://enchanting-travesseiro-7ea685.netlify.app/"
 languageCode = "en-us"
-title = "Tracey Strategy Hub"
+title = "Tracey Strategy + Execution"
 theme = "papermod"
+
+[taxonomies]
+  tag = "tags" 
 
 [params]
   author      = "Tracey Lande"
   description = "Strategic marketing insights for high-growth leaders."
-
+ShowReadingTime = true
 [[menu.main]]
   name   = "About"
   url    = "/about/"
