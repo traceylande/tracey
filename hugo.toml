@@ -1,10 +1,16 @@
-baseURL = "http://localhost:1313/"
+
+
+baseURL = "https://YOUR-SITE.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Tracey Strategy Hub"
+theme = "papermod"
+
+[params]
+  author      = "Tracey Lande"
+  description = "Strategic marketing insights for high-growth leaders."
+
 [[menu.main]]
   name   = "About"
   url    = "/about/"
   weight = 1
-
 
