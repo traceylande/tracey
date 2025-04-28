@@ -28,7 +28,6 @@ description = "Strategic execution insights for CEOs and thier leadershp teams."
   Toc                  = false
   hideSummary          = true      # list page shows titles only
   hideDescriptionInList = true
-[params]
   ShowBreadCrumbs      = false
   ShowPostNavLinks     = false
   ShowCodeCopyButtons  = false
